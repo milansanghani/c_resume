@@ -960,7 +960,7 @@ ul.simplefilter {
 .jm-item-image {
 	    position: relative;
     overflow: hidden;
-  
+  height:350px;
 }
 
 .jm-item-image img {
